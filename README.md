@@ -1,5 +1,5 @@
 # Multimodal Deep Learning for the Prediction of Crop Phenotype using Heterogeneous Data
-Master Thesis Project
+**Master Thesis Project | IEEE CAI 2025 Publication**
 
 ## Project Description
 This master thesis presents a novel multimodal deep learning approach for crop phenotype prediction by integrating multiple data modalities through an intermediate fusion architecture. The project focuses on predicting barley's flowering time and yield using genetic markers, environmental data, and study conditions.
