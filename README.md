@@ -56,7 +56,19 @@ Environmental data corresponds to the specific geographic locations where field 
     - Irrigated vs. non-irrigated conditions
 Each trial site represents distinct climatic zones, providing diverse environmental conditions for phenotype assessment.
 
+## Publications
+
+This research has been published in the following prestigious conference:
+
+* **A Multimodal Deep Learning End-to-End Model for Improving Barley Genotype-to-Phenotype Prediction Using Heterogeneous Data**
+    * **Conference:** 2025 IEEE Conference on Artificial Intelligence (CAI)
+    * **DOI/Link:** [https://ieeexplore.ieee.org/document/11050631](https://ieeexplore.ieee.org/document/11050631)
+
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
+## Run
+```bash
+python main.py
 ```
