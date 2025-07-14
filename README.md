@@ -64,17 +64,18 @@ This research has been published in the following prestigious conference:
     * **Conference:** 2025 IEEE Conference on Artificial Intelligence (CAI)
     * **DOI/Link:** [https://ieeexplore.ieee.org/document/11050631](https://ieeexplore.ieee.org/document/11050631)
 
-You can use the following BibTeX format to cite this paper:
+Use the following BibTeX format to cite this paper:
 
 ```bibtex
-@inproceedings{Pradhan2025Multimodal,
+@INPROCEEDINGS{11050631,
   author={Pradhan, Samuel and Wang, Guanjin and Xuan, Junyu and Wang, Penghao and Li, Chengdao and Lu, Jie},
-  booktitle={2025 IEEE Conference on Artificial Intelligence (CAI)},
-  title={A Multimodal Deep Learning End-to-End Model for Improving Barley Genotype-to-Phenotype Prediction Using Heterogeneous Data},
+  booktitle={2025 IEEE Conference on Artificial Intelligence (CAI)}, 
+  title={A Multimodal Deep Learning End-to-End Model for Improving Barley Genotype-to-Phenotype Prediction Using Heterogeneous Data}, 
   year={2025},
-  month=may, % Conference month
-  address={Santa Clara, CA, USA}, % Conference location
-  publisher={IEEE},
-  doi={10.1109/CAI64502.2025.00059}
-}
+  volume={},
+  number={},
+  pages={322-327},
+  keywords={Deep learning;Precision agriculture;Phenotypes;Crops;Genomics;Predictive models;Flowering plants;Data models;Bioinformatics;Long short term memory;crop phenotype prediction;deep learning;fusion model;multimodal learning},
+  doi={10.1109/CAI64502.2025.00059}}
+
 ```
