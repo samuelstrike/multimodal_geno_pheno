@@ -78,12 +78,3 @@ You can use the following BibTeX format to cite this paper:
   doi={10.1109/CAI64502.2025.00059}
 }
 ```
-
-## Installation
-```bash
-pip install -r requirements.txt
-```
-## Run
-```bash
-python main.py
-```
