@@ -64,6 +64,21 @@ This research has been published in the following prestigious conference:
     * **Conference:** 2025 IEEE Conference on Artificial Intelligence (CAI)
     * **DOI/Link:** [https://ieeexplore.ieee.org/document/11050631](https://ieeexplore.ieee.org/document/11050631)
 
+You can use the following BibTeX format to cite this paper:
+
+```bibtex
+@inproceedings{Pradhan2025Multimodal,
+  author={Pradhan, Samuel and Wang, Guanjin and Xuan, Junyu and Wang, Penghao and Li, Chengdao and Lu, Jie},
+  booktitle={2025 IEEE Conference on Artificial Intelligence (CAI)},
+  title={A Multimodal Deep Learning End-to-End Model for Improving Barley Genotype-to-Phenotype Prediction Using Heterogeneous Data},
+  year={2025},
+  month=may, % Conference month
+  address={Santa Clara, CA, USA}, % Conference location
+  publisher={IEEE},
+  doi={10.1109/CAI64502.2025.00059}
+}
+```
+
 ## Installation
 ```bash
 pip install -r requirements.txt
